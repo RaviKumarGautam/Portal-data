@@ -1,0 +1,15 @@
+.content{max-width: 90%; margin: auto;}
+.resume-upload-form{border: 1px solid red;}
+.resume-upload-form form h4{margin: 10px 0 0 0px;}
+#userDetails{margin: 15px 0 0 0; width: 100%;}
+input[type="text"]{margin-left: 20px; margin-top: 8px; padding: 3px;}
+.upload{margin-top: 5px; margin-bottom: 10px;}
+.upload h5{margin-bottom: 15px;}
+.upload label{margin: 3px 0 10px 15px;}
+.upload input[type="radio"]{margin-left: 2px;}
+input[type="file"]{margin: 5px 10px 5px 0px;}
+.resume-upload-submit-btn{
+    color: #6c757d;
+    border-color: #6c757d;
+    margin: 8px 0 0 15px;
+    padding: 4px 12px;}

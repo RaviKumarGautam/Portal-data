@@ -1,0 +1,11 @@
+hr {margin-top: 0rem; margin-bottom: 0rem;}
+#mainDiv{align-content:center; max-height:100%; border: 1px solid red;}
+#showResultNumber{align-content: center; height: 35px; display: flex; background-color:bisque;}
+#showResultNumber h6{margin: 5px 0 0 8px;}
+.searchOn-radio{height: 50px ; display: inline-block; margin-top: 10px;}
+.searchOn-radio label{margin-left: 0px;}
+#searchOn{display: inline-block; margin-left: 5px; margin-bottom: 10px;}
+#searchOn h3{margin: 10px 0 15px 0;}
+input[type="radio"]{margin: 10px 5px 5px 5px;}
+#searchTitle{margin-top: 5px;}
+#searchkeywords{margin-top: 5px;}
